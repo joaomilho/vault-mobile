@@ -1,0 +1,30 @@
+{
+  "name": "vault-mobile",
+  "version": "1.0.0",
+  "author": "joaomilho",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/joaomilho/vault-mobile",
+  "keywords": [
+    "vault",
+    "password",
+    "security",
+    "electron",
+    "react",
+    "native",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "scripts": {
+    "start": "react-native run-ios"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "react": "16.0.0-beta.5",
+    "react-native": "0.49.5",
+    "vault": "^0.3.0"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "4.0.0"
+  }
+}
